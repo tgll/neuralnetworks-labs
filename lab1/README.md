@@ -2,9 +2,9 @@
 
 ### Lab 1: Learning and generalisation in feed-forward networks from perceptron learning to backprop
 
-[Lab instructions](https://github.com/tgll)
+[Lab instructions](https://github.com/tgll/neuralnetworks-labs/blob/master/lab1/annda_lab1.pdf)
 
-Visualise the [code](https://nbviewer.jupyter.org/github/tgll/) with Nbviewer
+Visualise the [code](https://nbviewer.jupyter.org/github/tgll/neuralnetworks-labs/blob/master/lab1/lab1-perceptron.ipynb) with Nbviewer
 
 #### In this lab:
 
@@ -28,4 +28,4 @@ Linearly separable data VS not linearly separable data
 
 ------
 
-### See the other labs [here](https://github.com/tgll)
+### See the other labs [here](https://github.com/tgll/neuralnetworks-labs)

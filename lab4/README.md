@@ -9,4 +9,4 @@ Visualise the [code](https://nbviewer.jupyter.org/github/tgll/) with Nbviewer
 
 ------
 
-### See the other labs [here](https://github.com/tgll)
+### See the other labs [here](https://github.com/tgll/neuralnetworks-labs)
